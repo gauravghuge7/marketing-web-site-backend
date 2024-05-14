@@ -1,0 +1,47 @@
+[33mcommit 3b4ac4a5d1bf199cc3e036030d69f5e2b7b7cf6c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Gourav Ghuge <you@example.com>
+Date:   Tue May 14 11:20:00 2024 +0530
+
+    update the code
+
+[33mcommit fb036e56711120a3142d7f89496029c220b03278[m
+Author: Gourav Ghuge <you@example.com>
+Date:   Tue May 14 11:07:48 2024 +0530
+
+    update the backend code
+
+[33mcommit cf5943a126580bcb2033a446c345a488f91d1a19[m
+Author: Gourav Ghuge <you@example.com>
+Date:   Sat May 11 22:02:23 2024 +0530
+
+    update the controller
+
+[33mcommit 979aeeed3a9382518026ed627b71d348db1fdc5b[m
+Author: Gourav Ghuge <you@example.com>
+Date:   Sat May 11 22:00:14 2024 +0530
+
+    update the controller
+
+[33mcommit 04e45e063ab1799519bb1f0791cbeb167f060ef3[m
+Author: Gourav Ghuge <you@example.com>
+Date:   Sat May 11 21:56:51 2024 +0530
+
+    upate the user controller
+
+[33mcommit ec73cd1edff859560d9e9047d98f3f7c7f315d20[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Gourav Ghuge <you@example.com>
+Date:   Fri May 10 13:55:11 2024 +0530
+
+    connect all project
+
+[33mcommit 349dc2e6cd3a3412426ec6309da273cfaf5d3489[m
+Author: Gourav Ghuge <you@example.com>
+Date:   Thu May 9 11:07:10 2024 +0530
+
+    write the controller for registering user
+
+[33mcommit 6ddc23a43f42a67fc44f3175b64447d789779a70[m
+Author: Gourav Ghuge <you@example.com>
+Date:   Tue May 7 23:32:19 2024 +0530
+
+    start the project
